@@ -8,6 +8,8 @@ idna==3.11
 pip==25.3
 pydantic==2.12.5
 pydantic-core==2.41.5
+pymysql==1.1.2
+sqlalchemy==2.0.44
 starlette==0.50.0
 typing-extensions==4.15.0
 typing-inspection==0.4.2
